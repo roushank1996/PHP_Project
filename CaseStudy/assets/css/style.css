@@ -1,0 +1,72 @@
+.content{
+    border:1px solid yellow;
+    padding:50px !important;
+	min-height:500px !important;
+    
+}
+.header{   
+	height:70px;
+    background-color: black;
+    padding:10px;
+}
+.footer{
+    height:40px;
+    background-color: black;  
+    vertical-align:middle;
+}
+.footer p{    
+    color:white;
+    line-height:40px;
+
+}
+.no-padding{
+    padding:0px;
+}
+.no-margin{
+    padding:0px;
+}
+.logo{
+    font-size:30px;
+    color:red;
+    border-right:1px solid white;
+    padding-right:50px;
+}
+.logo-img{
+    height:40px;
+    margin-top:-12px;
+}
+.item{
+    border:1px solid gray;  
+    padding:5px;
+    min-height:230px;
+}
+.item-image{
+    width:90px;
+    height:90px;
+}
+.veg{
+    background-color:green;
+    width:20px;
+    height:20px;
+}
+.non-veg{
+    background-color:red;
+    width:20px;
+    height:20px;
+}
+.ingredient-image{
+    width:50px;
+    height:50px;
+}
+.login-box{
+    margin-top:50px;
+}
+.required{
+    color:red;
+}
+.error{
+    color:red;
+}
+.error{
+    color:green;
+}
